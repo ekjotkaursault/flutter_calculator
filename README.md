@@ -14,11 +14,6 @@ A simple calculator built using **Flutter** for **Lab 2: Create a Calculator App
 
 ---
 
-##  Preview
-![Flutter Calculator Screenshot](screenshots/calculator_ui.png)
-
----
-
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
