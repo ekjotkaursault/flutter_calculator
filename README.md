@@ -9,6 +9,7 @@ It features a clean UI, responsive layout, and persistent state using `SharedPre
 
 iPhones: 375–430px **
 
+I have used vscode for doing this lab.
 
 Our app is meant to run on web, tablet, or mobile, and this design respects that.
 
@@ -105,6 +106,7 @@ Ekjot Kaur
 🌐 GitHub: https://github.com/ekjotkaursault 
 
 💬 “Building code with creativity and passion.”
+
 
 
 
