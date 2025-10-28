@@ -5,6 +5,12 @@ A simple yet elegant **Calculator Application** built using **Flutter** as part 
 This project performs **Addition, Subtraction, Multiplication, and Division**, and follows all specifications provided in the lab instructions.  
 It features a clean UI, responsive layout, and persistent state using `SharedPreferences`.
 
+**Typical Android phones: 360–420px
+
+iPhones: 375–430px
+**
+Our app is meant to run on web, tablet, or mobile, and this design respects that.
+
 ---
 
 ##  Project Overview
@@ -98,6 +104,7 @@ Ekjot Kaur
 🌐 GitHub: https://github.com/ekjotkaursault 
 
 💬 “Building code with creativity and passion.”
+
 
 
 
