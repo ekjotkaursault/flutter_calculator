@@ -1,5 +1,7 @@
 #  Flutter Calculator – Lab 2
 
+**I have used VS code for doing this lab.**
+
 A simple yet elegant **Calculator Application** built using **Flutter** as part of **Lab 2** for the *CSD228 – Mobile Web Development* course at **Sault College**.
 
 This project performs **Addition, Subtraction, Multiplication, and Division**, and follows all specifications provided in the lab instructions.  
@@ -8,8 +10,6 @@ It features a clean UI, responsive layout, and persistent state using `SharedPre
 ** Typical Android phones: 360–420px
 
 iPhones: 375–430px **
-
-I have used vscode for doing this lab.
 
 Our app is meant to run on web, tablet, or mobile, and this design respects that.
 
@@ -106,6 +106,7 @@ Ekjot Kaur
 🌐 GitHub: https://github.com/ekjotkaursault 
 
 💬 “Building code with creativity and passion.”
+
 
 
 
