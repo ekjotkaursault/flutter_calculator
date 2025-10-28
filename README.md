@@ -85,11 +85,19 @@ Responsive Behavior: Fixed logical width (~360px), centered for all screens
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+💬 Acknowledgment
+
+This project was developed with guidance from Professor Stephen Perelgut.
+Special thanks for his feedback and support throughout Lab 2.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 👩‍💻 Author
 
 Ekjot Kaur
 🌐 GitHub: https://github.com/ekjotkaursault 
 
 💬 “Building code with creativity and passion.”
+
 
 
