@@ -24,9 +24,13 @@ However, certain small code snippets and logic references were adapted from offi
 Some of the references were mentioned on **brightspace** which we were enabled by the instructor, which i reviewed and followed the steps along.
 
 These are some outside sources, that help me understand the logic :
+
 Dart Language Tour: Syntax reference for operators and conditional logic (https://dart.dev/language)
+
 Flutter Layout Examples : Helped understand layout widgets like Expanded, Row, Column, and GridView  (https://flutter.dev/docs/development/ui/layout)
+
 Flutter Docs : Example usage of SharedPreferences for state persistence (https://docs.flutter.dev/cookbook/persistence/key-value)
+
 
 **My Original Work:**
 
@@ -134,6 +138,7 @@ Author
 
 Ekjot Kaur
 GitHub: https://github.com/ekjotkaursault 
+
 
 
 
